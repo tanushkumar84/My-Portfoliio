@@ -1,0 +1,177 @@
+Tanush Rajput - Personal Portfolio
+
+# sidebar
+
+alt = Tanush
+Web developer
+
+Show Contacts
+tanushrajput20@gmail.com
+
+Phone
++91 8882683871
+
+Birthday
+Feb 20, 2004
+
+Location
+Delhi ,India
+
+# navbar
+
+About
+Resume
+Portfolio
+Contact
+
+# about
+
+About me
+
+My name is Tanush, and I am a web developer from Delhi currently 
+pursuing a Bachelor of Technology (BTech) degree in Computer 
+Science and Engineering at a prestigious institution in Noida,
+ Sector 62. As a passionate and driven individual, I am dedicated 
+ to honing my skills in web development and deepening my understanding 
+ of Data Structures and Algorithms (DSA), which are crucial for building 
+ efficient and scalable software solutions.
+
+
+
+
+## service
+
+What i'm doing
+
+alt = Web development icon
+Web development
+High-quality development of sites at the professional level.
+
+
+alt = design icon
+Web design
+The most modern and high-quality design made at a professional level.
+
+
+
+alt = DSA icon
+DSA Icon
+Skilled in utilizing data structures and algorithms to improve code efficiency and performance.
+
+
+
+## Skills
+Skills 
+
+alt = Slill logo
+
+
+
+# resume
+
+Resume
+
+Education
+
+
+Jaypee Institute of Information Technology, Noida, Sector 62
+Bachelor of Technology (BTech) in Computer Science and Engineering
+3rd Year Student
+2022 - Present
+Pursuing studies in advanced computer science topics with a focus on web development and Data Structures & Algorithms (DSA).
+
+Greenfield Public School, Delhi
+Completed 12th Grade in 2022
+Completed 10th Grade in 2020
+
+
+My skills
+
+Web Development
+85%
+
+Data Structures and Algorithms (DSA)
+50%
+
+Backend Development
+70%
+
+Frontend Technologies
+75%
+
+Version Control (Git/GitHub)
+85%
+
+Database Management
+85%
+
+
+
+
+# portfolio
+
+Portfolio
+
+All
+Web design
+Web Applications
+Web development
+DSA 
+
+Select category
+All
+Web design
+Applications
+Web development
+DSA
+
+alt = MEEt
+Live meeting 
+Web development
+
+alt = orizon
+Orizon
+Web development
+
+alt = fundo
+Fundo
+Web design
+
+alt = brawlhalla
+Brawlhalla
+Applications
+
+alt = dsm.
+DSM.
+Web design
+
+alt = metaspark
+MetaSpark
+Web design
+
+alt = summary
+Summary
+Web development
+
+alt = task manager
+Task Manager
+Applications
+
+alt = arrival
+Arrival
+Web development
+
+
+
+
+# contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
